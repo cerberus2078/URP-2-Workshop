@@ -3046,13 +3046,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 66768357}
   lightmapColorClear:
-  - {fileID: 2800000, guid: 426111211e0894347b90a5a835be9109, type: 3}
+  - {fileID: 2800000, guid: 1b50fc51ca110204880dad883299235b, type: 3}
   lightmapDirClear:
-  - {fileID: 2800000, guid: fce1661255054184abe100fbf73fe34c, type: 3}
+  - {fileID: 2800000, guid: f181a0ae778ee83488c18e16cdae17f4, type: 3}
   lightmapColorOne:
-  - {fileID: 0}
+  - {fileID: 2800000, guid: 71819a20c8a105a4abbdbc218d5139e2, type: 3}
   lightmapDirOne:
-  - {fileID: 0}
+  - {fileID: 2800000, guid: 6062e73e9ec68b346b66218d370367c3, type: 3}
   lightmapColorTwo:
   - {fileID: 2800000, guid: 2cdc1f2b22876a340b685d243ccb7883, type: 3}
   lightmapDirTwo:
