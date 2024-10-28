@@ -1,7 +1,7 @@
 # URP-2-Workshop
 
-# Lighting Workshop
-## Steps
+## Lighting Workshop
+### Steps
 
 1. **Verify Lighting Settings**  
    Go to the **Lighting** tab: `Window > Rendering > Lighting`.
@@ -47,7 +47,7 @@
 
 ## Technical Applications
 
--Baked lighting reduces real-time rendering load.
--Light probes provide consistent lights and shadows across different scenarios.
--Allows for rapid, cost-effective, and impactful adjustments to lighting.
+- Baked lighting reduces real-time rendering load.
+- Light probes provide consistent lights and shadows across different scenarios.
+- Allows for rapid, cost-effective, and impactful adjustments to lighting.
 
